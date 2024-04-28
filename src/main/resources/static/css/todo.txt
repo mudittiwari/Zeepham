@@ -1,0 +1,22 @@
+work to do in this project
+
+add method to update user info
+add method to add review for the product
+add method to add rating for the product
+add method to add items to user cart
+add method to add items to user fav item list
+create order entity
+add method to create a order(order entity will have status)
+add method to edit the order(status of the order will be updated)
+
+
+create method to forget password.
+create method to update user password.
+create account should be done after email validation
+
+add validations in all entities
+
+add method to delete the user
+add method to delete product
+add method to delete brand
+add method to delete category
